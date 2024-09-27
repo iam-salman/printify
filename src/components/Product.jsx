@@ -50,7 +50,6 @@ const Product = () => {
             </div>
 
             <div className="mt-16 grid grid-cols-1 lg:grid-cols-3 gap-8 px-4 md:px-8 lg:px-14 max-w-6xl mx-auto">
-                {/* Create */}
                 <div className="flex flex-col lg:items-start items-center">
                     <img
                         src={customproduct}
